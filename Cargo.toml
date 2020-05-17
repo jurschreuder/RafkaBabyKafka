@@ -1,0 +1,6 @@
+[package]
+name = "rafka_baby_kafka"
+version = "0.1.0"
+authors = ["Jurriaan Schreuder <jurschreuder.at.protonmail.com>"]
+
+[dependencies]
